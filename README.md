@@ -1,12 +1,7 @@
 # Hi, I'm Clint Tuttle 🤘
-
-This is a work in progress
-
-asdf
-asdf
-asdf
-adsf
-asdf
-asdf
-asdf
-
+ 
+**Data Geek & Full Stack Dev at the University of Texas at Austin.**
+Building tools at the intersection of workforce data, AI, and decision-making.
+ 
+📍 Austin, TX &nbsp;|&nbsp; 🎓 UT Austin &nbsp;|&nbsp; 🤝 Open to collaboration
+ 
